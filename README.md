@@ -7,7 +7,7 @@
 
 Я начинающий Android-разработчик<img src="https://media.tenor.com/oOyGWZrOzGEAAAAi/android-running-android.gif" width="30px">. 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kotovdmitry-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/daCatKotov) [![VK Badge](https://img.shields.io/badge/-dimakritix-blue?style=flat&logo=VK&logoColor=white)](https://t.me/daCatKotov) [![Yandex Badge](https://img.shields.io/badge/-Mail-red?style=flat)](mailto:dacatkotov@yandex.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kotovdmitry-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/daCatKotov) [![VK Badge](https://img.shields.io/badge/-dimakritix-blue?style=flat&logo=VK&logoColor=white)]([https://t.me/daCatKotov](https://vk.com/dimakritix)) [![Yandex Badge](https://img.shields.io/badge/-Mail-red?style=flat)](mailto:dacatkotov@yandex.ru)
 
 ---
 
