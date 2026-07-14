@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Android-разработчик<img src="https://media.tenor.com/oOyGWZrOzGEAAAAi/android-running-android.gif" width="30px">. 
+Я Android-разработчик<img src="https://media.tenor.com/oOyGWZrOzGEAAAAi/android-running-android.gif" width="30px">. 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-daCatKotov-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/daCatKotov) 
 [![VK Badge](https://img.shields.io/badge/-dimakritix-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/dimakritix) [![Yandex Badge](https://img.shields.io/badge/-Mail-red?style=flat)](mailto:dacatkotov@yandex.ru)
